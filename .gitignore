@@ -22,3 +22,8 @@ package-lock.json
 
 # ignore .astro directory
 .astro
+
+# ignore .obsidian directory
+.obsidian
+src/content/template
+src/content/images
