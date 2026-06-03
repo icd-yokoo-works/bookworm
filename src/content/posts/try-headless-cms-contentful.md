@@ -3,7 +3,7 @@ title: ヘッドレスCMS contentful を試してみた
 meta_title: Astroとcontentfulを使ったサイトを公開する方法
 description: Astroとcontentfulで作成したページを公開する手順を説明します。
 date: 2026-05-30
-image: /images/posts/01.jpg
+image: /images/posts/thumb-contentful.png
 categories:
   - development
 authors:

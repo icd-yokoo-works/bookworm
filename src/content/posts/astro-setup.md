@@ -3,7 +3,7 @@ title: Astroのセットアップ
 meta_title: Astroでサイト構築するための環境構築手順をまとめました。
 description: Astroでサイト構築するための環境構築手順をまとめました。
 date: 2025-04-01
-image: /images/posts/01.jpg
+image: /images/posts/thumb-astronomy.png
 categories:
   - development
 authors:

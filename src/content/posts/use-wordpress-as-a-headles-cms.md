@@ -3,7 +3,7 @@ title: wordpressをヘッドレスCMSとして使ってみる
 meta_title: wordpressをヘッドレスCMSとして使ってみる
 description: 今回はローカル環境でDockerを使いwordpressをヘッドレスCMSとしてBlogを制作してみました
 date: 2026-06-01
-image: /images/posts/05.jpg
+image: /images/posts/thumb-code-img-01.png
 categories:
   - development
 authors:

@@ -3,7 +3,7 @@ title: 国産ヘッドレスCMS Niltoを試してみた
 meta_title: 国産ヘッドレスCMS Niltoを試してみた
 description: 国産ヘッドレスCMS Niltoを試してみたみました。contentfulやmicroCMSとの違いも紹介します。
 date: 2026-05-30
-image: /images/posts/04.jpg
+image: /images/posts/thumb-dawn.png
 categories:
   - development
 authors:

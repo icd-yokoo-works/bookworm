@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "Lerning Javascript and Typescript with React",
+    "base_url": "https://learning-js-ts-five.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "logo": "/images/logo.svg",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Lerning JS and TS"
   },
 
   "settings": {
@@ -16,9 +16,9 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "icd-yokoo",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Lerning Javascript and Typescript with React"
   },
 
   "google_tag_manager": {
@@ -33,7 +33,7 @@
 
   "contactinfo": {
     "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
+    "email": "example@example.org",
     "phone": "+800 567 1234"
   }
 }

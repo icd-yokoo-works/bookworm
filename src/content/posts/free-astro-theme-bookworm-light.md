@@ -3,7 +3,7 @@ title: Astroのblogテンプレート設定方法
 meta_title: Astroのblogテンプレート設定方法
 description: Astroの無料テーマ「bookworm」を使用してblogを作成します。
 date: 2026-05-23
-image: /images/posts/03.jpg
+image: /images/posts/thumb-bookworm-light.png
 categories:
   - development
 authors:

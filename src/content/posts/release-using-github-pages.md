@@ -3,7 +3,7 @@ title: Astroで作成したページをgithub pagesで公開する方法
 meta_title: Astroで作成したページをgithub pagesで公開する方法
 description: Astroで作成したページをgithub pagesで公開する手順を説明します。
 date: 2026-06-02
-image: /images/posts/02.jpg
+image: /images/posts/thumb-github.png
 categories:
   - development
 authors:
@@ -75,9 +75,9 @@ vs codeの一括置換などで、
 
 
 ```
-<img src="/image/logo.png">
+<img src="/image/logo.svg">
 ↓↓↓
-<a src="/450k/image/logo.png">
+<a src="/450k/image/logo.svg">
 ```
 
 

@@ -3,7 +3,7 @@ title: 国産ヘッドレスCMS microCMSを試してみた
 meta_title: 国産ヘッドレスCMS microCMSを試してみた
 description: おそらく人気No.1？国産ヘッドレスCMS microCMSとNext.jsでアプリをつくってみた
 date: 2026-04-25
-image: /images/posts/06.jpg
+image: /images/posts/thumb-micro-prastic.png
 categories:
   - development
 authors:
